@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Tara !
+I’m an IT student based in Melbourne, focusing on SQL, data analysis, and working with structured datasets.
 
 <!--
 **tara-ng/tara-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
