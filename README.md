@@ -15,5 +15,5 @@ Git & GitHub
 Excel / CSV data
 
 Connect with Me
-LinkedIn: [(update later)](https://www.linkedin.com/in/thuanhthinguyen22/) 
+LinkedIn: (https://www.linkedin.com/in/thuanhthinguyen22/) 
 Email: tara.au8386@gmai.com
